@@ -1,4 +1,4 @@
-#Google Lighthouse
+# Google Lighthouse
 
 ## 1. Introduction of Google Lighthouse
 Lighthouse is an open-source, automated tool for improving the quality of web pages. You can run it against any web page, public or requiring authentication. It has audits for performance, accessibility, progressive web apps, and more.
